@@ -1,0 +1,49 @@
+.box{
+   text-align: center;
+}
+
+.body{
+    width: 100%;
+    height: 1000px;
+    background-color:#edece8;
+    padding-top: 60px;
+
+}
+
+.box1{
+    width: 500px;
+    height:700px;
+    background-color:white ;
+margin-left:auto;
+margin-right: auto;
+padding-top: 50px;
+border-radius: 10px;
+border-color: #dedddc;
+border-style: solid;
+}
+
+.box2{
+    width: 500px;
+    height:80px;
+    background-color:white ;
+margin-left:auto;
+margin-right: auto;
+border-radius: 10px;
+border-color: #dedddc;
+border-style: solid;
+margin-top: 10px;
+}
+
+.center{
+    margin-left: 150px;
+}
+
+.textField{
+    padding-left: 100px;
+}
+
+.para{
+    text-align:'center';
+    color:'#757574'
+}
+
